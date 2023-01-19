@@ -24,7 +24,7 @@
 | Arduino UNO                                                                |           1               |
 | MQ135                                                                      |           1               | 
 | ΜQ7                                                                        |           1               |
-| MQ55                                                                       |           1               |
+| MQ5                                                                       |           1               |
 | WiFi module                                                                |           1               |
 | Bluetooth module                                                           |           1               |
 | Jumper Wires 40pcs	                                                       |           1               |
