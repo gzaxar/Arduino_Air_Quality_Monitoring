@@ -1,4 +1,4 @@
-***4π Δημοτικό Σχoλείο Καλαμαριάς***
+***4ο Δημοτικό Σχoλείο Καλαμαριάς***
 
 *Arduino Air Quality Monitoring System*
 
