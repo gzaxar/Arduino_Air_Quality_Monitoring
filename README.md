@@ -252,3 +252,4 @@ void setup ()
  
 ![image](https://github.com/gzaxar/Arduino_Air_Quality_Monitoring_System/assets/78252867/4af989fa-f747-4974-97eb-70d4c8a8133f)
 
+![image](https://github.com/gzaxar/Arduino_Air_Quality_Monitoring_System/blob/main/images/thingspeak_Airquality.png)
