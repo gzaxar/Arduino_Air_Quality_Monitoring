@@ -58,24 +58,13 @@
 **Υλικά**
 |Είδος|Ποσότητα|
 | - | - |
-|Arduino UNO R3 SMD|5|
-|Ultrasonic distance sensor|5|
-|9v Battery|5|
-|Jumper wires 40pcs|5|
-|LEDs |5|
-|Breadboard|5|
-
-|Jumper Wires 40pcs	1|
-|Περιγραφή|Ποσότητα|
-|---------| 
+|Arduino UNO R3 SMD|1|
 |ESP8266 |1|
-|--------------------|
-|MQ135  |1|
-|ESP8266|1|
 |9v Battery|1|
 |Jumper wires 40pcs|1|
-|Breadboard|1|                                   
-                                         
+|Breadboard|1|
+|MQ135|1|
+                                        
 **Σενάριο χρήσης**
 
 Το Air Quality monitor παίρνει πληροφορίες από τους αισθητήρες και τις επεξεργαζόμαστε μέσο του προγράμματος ARDUINO IDE. Από εκεί βλέπουμε πόσο καθαρός ή βρόμικος είναι ο αέρας.
