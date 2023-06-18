@@ -244,14 +244,10 @@ void setup ()
     Serial.println("Waiting...");
 
     delay(2000);      
-    
-
-
 
   **Μελλοντικές Εξελίξεις**
 
 Το  συγκεκριμένο μηχάνημα θα χρησιμοποιηθεί από πολλούς ανθρώπους στο μέλλον για την πρόγνωση της ποιότητας του αέρα .Επίσης θα μπορούσαμε να συνδέσουμε περισσοτερους αισθητήρες πάνω στην πλατφόρμα  και να δημιούργήσουμε μια εφαρμογή για smart phones ωστε αν ο αέρας είναι χαμηλής ποιότητας να στέλνει μια ειδοποίηση στον χρήστη. 
-
 
 **Συμπέρασμα**
 
@@ -260,7 +256,7 @@ void setup ()
 **Κύκλωμα**
  
 ![image](https://github.com/gzaxar/Arduino_Air_Quality_Monitoring_System/assets/78252867/4af989fa-f747-4974-97eb-70d4c8a8133f)
-![image](https://github.com/gzaxar/Arduino_Air_Quality_Monitoring_System/images/circuit_MQ135.png)
+![image](https://github.com/gzaxar/Arduino_Air_Quality_Monitoring_System/main/images/circuit_MQ135.png)
 
 **Συνδεση του αισθητήρα με το κανάλι του Think Speak**
 
